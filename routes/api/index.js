@@ -1,3 +1,4 @@
+// @ts-check
 const router = require('express').Router();
 const articlesRouter = require('./articles');
 
